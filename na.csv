@@ -7,12 +7,8 @@ release_pos_z,1
 player_name,0
 batter,0
 pitcher,0
-events,5735
+events,0
 description,0
-spin_dir,7444
-spin_rate_deprecated,7444
-break_angle_deprecated,7444
-break_length_deprecated,7444
 zone,0
 des,5735
 game_type,0
@@ -38,10 +34,7 @@ inning,0
 inning_topbot,0
 hc_x,6556
 hc_y,6556
-tfs_deprecated,7444
-tfs_zulu_deprecated,7444
 fielder_2,0
-umpire,7444
 sv_id,60
 vx0,0
 vy0,0
